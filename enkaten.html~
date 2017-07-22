@@ -23,14 +23,14 @@
 			<a href="#" id="menu-icon"></a>
 
 			<ul>
-				<li><a href="index.html" class="current">Start</a></li>
-				<li><a href="forsta_dagen.html">Första dagen</a></li>
-				<li><a href="nolleboken.html">Nolleboken</a></li>
-				<li><a href="enkaten.html">Enkäten</a></li>
-				<li><a href="nolleskylten.html">Nolleskylten</a></li>
-				<li><a href="schema.html">Schema</a></li>
-				<li><a href="viktiga_lankar.html">Viktiga länkar</a></li>
-				<li><a href="om_tackling.html">Om TackLING</a></li>
+				<li><a href="/index.html" class="current">Start</a></li>
+				<li><a href="/forsta_dagen.html">Första dagen</a></li>
+				<li><a href="/nolleboken.html">Nolleboken</a></li>
+				<li><a href="/enkaten.html">Enkäten</a></li>
+				<li><a href="/nolleskylten.html">Nolleskylten</a></li>
+				<li><a href="/schema.html">Schema</a></li>
+				<li><a href="/viktiga_lankar.html">Viktiga länkar</a></li>
+				<li><a href="/om_tackling.html">Om TackLING</a></li>
 			</ul>
 		</nav>
 	</header>
@@ -39,9 +39,9 @@
 
 		<!--<img src="img/featured.png" alt="Respond" />-->
 
-		<h1>Under development</h1>
+		<h1>Nolle-enkäten(Under development)</h1>
 	       
-		<p>Work in progress</p>
+		<p>Nollan ska ha fått sin Nolle-enkät i god tid före Nolle-P börjar. Nollan ska fylla i enkäten och skicka in den så fort som möjligt! <button type="button" href="https://docs.google.com/forms/d/1Z2Rii4goLv_WYDpdhY1Hx6OdeH9Ce29ze1zaQ06Fy7c/edit">Klicka här!</button></p>
 
 	</section>
 
