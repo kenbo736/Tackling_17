@@ -41,7 +41,12 @@
 
 		<h1>Nolle-enkäten(Under development)</h1>
 	       
-		<p>Nollan ska ha fått sin Nolle-enkät i god tid före Nolle-P börjar. Nollan ska fylla i enkäten och skicka in den så fort som möjligt! <button type="button" href="https://docs.google.com/forms/d/1Z2Rii4goLv_WYDpdhY1Hx6OdeH9Ce29ze1zaQ06Fy7c/edit">Klicka här!</button></p>
+		<p>Nollan ska ha fått sin Nolle-enkät i god tid före Nolle-P börjar. Nollan ska fylla i enkäten och skicka in den så fort som möjligt! 
+		
+		<form action="https://docs.google.com/forms/d/1Z2Rii4goLv_WYDpdhY1Hx6OdeH9Ce29ze1zaQ06Fy7c/edit">
+            <input type="submit" value="Klicka här!">
+        </form> 
+		</p>
 
 	</section>
 
