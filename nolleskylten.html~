@@ -17,7 +17,7 @@
 <body>
 
 	<header>
-		<a href="#" id="logo"></a>
+		<a href="index.html" id="logo"></a>
 
 		<nav>
 			<a href="#" id="menu-icon"></a>
@@ -40,7 +40,7 @@
 		<h1>Så här ser Nolleskylten ut!(Under development)</h1>
 		
 		<img src="img/nolleskylt.png" alt="Respond" />
-	       
+	        <br>
             <p>1. Ramen färgas lila.<br>
             2. Bakgrunden färgas gul.<br>
             3. Här skriver Nollan sitt namn.<br>

@@ -41,6 +41,16 @@
 
 		<h1>Om TackLING(Under development)</h1>
 	       
+			<ul>
+				<li><img src="img/1.png" max-width="10%"/>asdasdd</li>
+				<li><img src="img/2.png" /></li>
+				<li><img src="img/3.png" /></li>
+				<li><a href="/enkaten.html">Enkäten</a></li>
+				<li><a href="/nolleskylten.html">Nolleskylten</a></li>
+				<li><a href="/schema.html">Schema</a></li>
+				<li><a href="/viktiga_lankar.html">Viktiga länkar</a></li>
+				<li><a href="/om_tackling.html">Om TackLING</a></li>
+			</ul>
 
 	</section>
 
