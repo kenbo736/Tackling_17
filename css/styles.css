@@ -23,11 +23,31 @@ a:hover {
 	color: #444;
 
 }
-
-img {
-
+img{
+	width: 70%;
+}
+img.annons{
 	width: 100%;
+}
 
+#rectangle{
+    width: 200px;
+    height: 200px;
+    /*background: #732a82;*/
+}
+#bigboy{
+	background: #732a82;
+	width: 100%;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+img.ImageBorder {    
+	border:3px solid #732a82;
+	background: #732a82;
 }
 
 header {
@@ -108,10 +128,10 @@ section {
 
 h1 {
 
-	font-size: 2em;
+	font-size: 1.6em;
 	color: #732a82;
 	line-height: 1.15em;
-	margin: 20px 0 ;
+	margin: 20px 0;
 
 }
 
