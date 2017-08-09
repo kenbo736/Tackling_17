@@ -5,8 +5,8 @@
 <head>
 
 	<meta charset="utf-8">
-	<title>Tackling 17</title>
-	<meta name="description" content="Responsive Header Nav">
+	<title>Första dagen</title>
+	<meta name="description" content="Första dagen">
 	<meta name="author" content="Treehouse">
 	<meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1">
 
@@ -23,14 +23,14 @@
 			<a href="#" id="menu-icon"></a>
 
 			<ul>
-				<li><a href="index.html" class="current">Start</a></li>
-				<li><a href="forsta_dagen.html">Första dagen</a></li>
-				<li><a href="nolleboken.html">Nolleboken</a></li>
-				<li><a href="enkaten.html">Enkäten</a></li>
-				<li><a href="nolleskylten.html">Nolleskylten</a></li>
-				<li><a href="schema.html">Schema</a></li>
-				<li><a href="nollepeng.html">Nollepeng</a></li>
-				<li><a href="om_tackling.html">Om TackLING</a></li>
+				<li><a href="/index.html">Start</a></li>
+				<li><a href="/forsta_dagen.html" class="current">Första dagen</a></li>
+				<li><a href="/nolleboken.html">Nolleboken</a></li>
+				<li><a href="/enkaten.html">Enkäten</a></li>
+				<li><a href="/nolleskylten.html">Nolleskylten</a></li>
+				<li><a href="/schema.html">Schema</a></li>
+				<li><a href="/viktiga_lankar.html">Viktiga länkar</a></li>
+				<li><a href="/om_tackling.html">Om TackLING</a></li>
 			</ul>
 		</nav>
 	</header>
@@ -39,15 +39,34 @@
 
 		<!--<img src="img/featured.png" alt="Respond" />-->
 
-		<h1>Första dagen(Under development)</h1>
+		<h1>Första dagen</h1>
 	       
 		<p>Den första dagen, <b>15:e augusti 2017</b>, ska du befinna dig vid <b>märkesbacken, kl 09.00</b>. Samlingsplatsen finns markerad med en stjärna på kartan till höger. Ta <b>INTE</b> med din cykel dit.
 Det är mycket viktigt att du närvarar vid uppropet första dagen eftersom du annars kommer att bli avregistrerad från programmet. <b>Om du inte kan närvara är det viktigt att du ber om dispens från studievägledaren på mail.</b><br></br>
 Det kommer att bjudas på både lunch och middag den första dagen. Det är därför viktigt att du, på både nolleenkäten och via e-post, redogör för dina allergier. Detta för att vi ska kunna erbjuda specialkost, inte bara för första dagen, utan också för hela mottagningsperioden. Har du inga allergier behöver du inte redogöra för dem, för de existerar ändå inte. Skicka en lista på dina allergier, samt ditt fullständiga namn, till e-post: <b>tackling17@gmail.com</b><br></br>
-All officiell information från LiU finns på <a href="https://www.liu.se/antagen">www.liu.se/antagen</a>. Där finns checklista på allt som skall göras för att bli korrekt inskriven som student på LiU samt övrig information som kan vara bra att veta. Bra idé att gå in och kolla på denna sida.</p>
-        <img src="img/map.jpg" alt="Respond" />
+All officiell information från LiU finns på <a href="https://www.liu.se/antagen">www.liu.se/antagen</a>. Där finns checklista på allt som skall göras för att bli korrekt inskriven som student på LiU samt övrig information som kan vara bra att veta. Bra idé att gå in och kolla på denna sida.<br><a href="https://goo.gl/maps/NaDQ9bmwtR92">https://goo.gl/maps/NaDQ9bmwtR92</a></p>
+        <img class="special" src="img/map.jpg" alt="Respond" />
+
 
 	</section>
+
+	<nav id="bigboy">
+	<nav id="rectangle">
+		<a href="http://www.fightcenter.se/">
+			<img  class="annons ImageBorder" src="img/annons_fight.jpg" alt="Respond" />
+		</a>
+	</nav>
+	<nav id="rectangle">	
+		<a href="http://www.orhanskrog.se/">
+			<img  class="annons ImageBorder" src="img/annons_orhan.png" alt="Respond" />
+		</a>
+	</nav>
+	<nav id="rectangle">
+		<a href="https://www.facebook.com/Bosses-Glassbar-Link%C3%B6ping-210995192281996">
+			<img  class="annons ImageBorder" src="img/annons_bosse.png" alt="Respond" />
+		</a>
+	</nav>
+</nav>
 
 </body>
 
